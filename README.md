@@ -20,4 +20,4 @@ This repository currently serves as the project's public reference point during 
 
 ## Keywords
 
-Cardiac magnetic resonance; Myocarditis detection; Hardness-aware data splitting; Vision Transformer; Lightweight hybrid CNN-ViT; Teacher-guided training; Explainable medical image analysis.
+Cardiac magnetic resonance; Myocarditis detection; Hardness-aware data splitting; Vision Transformer; Teacher-guided training; Explainable medical image analysis.
